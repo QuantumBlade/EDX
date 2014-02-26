@@ -1,0 +1,29 @@
+itemGroup.edx.blocks=Bloques de EDX
+itemGroup.edx.items=Objets de EDX
+itemGroup.edx.tools=Utils de EDX
+
+tile.table.wood.name=Table en bois
+tile.table.stone.name=Table de Fracassage
+
+tile.ore.chalcopyrite.name=Minerai Chalcopyrite
+tile.ore.cobaltite.name=Minerai Cobaltite
+tile.ore.galena.name=Minerai Galène
+tile.ore.graphite.name=Minerai Graphite
+tile.ore.magnetite.name=Minerai Magnétite
+tile.ore.nickel.name=Minerai Nickel
+tile.ore.wolframite.name=Minerai Wolframite
+
+tile.limestone.limestone.name=Calcaire
+tile.limestone.limestoneCobblestone.name=Calcaire Pavé
+tile.limestone.limestoneBricks.name=Briques de Calcaire
+tile.limestone.limestoneScorched.name=Calcaire Roussi
+tile.limestone.limestoneScorcedBricks.name=Briques de Calcaire Roussi
+tile.limestone.limestoneTiled.name=Calcaire Carrelé
+
+tile.storage.cobalt.name=Bloque de Cobalt
+tile.storage.copper.name=Bloque de Cuivre
+tile.storage.lead.name=Bloque de Plomb
+tile.storage.loadstone.name=Bloque de Magnétite
+tile.storage.nickel.name=Bloque de Nickel
+tile.storage.tellurium.name=Bloque de Tellure
+tile.storage.tungsten.name=Bloque de Tungstène
